@@ -1,12 +1,40 @@
-Copyright (c) 2026 Abdelrahman Alballal (عبد الرحمن البلال)
-Project: TutMagic
+TutMagic Free-Use License
+Copyright (c) 2026 Abdelrahman Mahmoud Al-Ballal. All rights reserved.
 
-This software is provided as Freeware for personal, non-commercial, and educational use only.
+1. Grant. You may download, install and run TutMagic free of charge, for
+   personal and professional (including inside a company) use, on any number
+   of your own or your employer's computers.
 
-By downloading or using this software, you agree to the following conditions:
-1. Permitted Use: Free use is strictly limited to personal, non-commercial, and educational purposes.
-2. Commercial Prohibition: Using the software for commercial purposes, inside corporate environments, or for paid services is strictly prohibited.
-3. No Modification: You may not modify, adapt, reverse engineer, decompile, or disassemble any part of the software or its source code.
-4. Redistribution: You may not sell, rent, or host the software files on other platforms. You may only share the official download link.
+2. Restrictions. Without prior written permission from the copyright holder
+   you may NOT: (a) sell, rent, lease or charge for TutMagic or access to it;
+   (b) modify, translate, adapt or create derivative works of it; (c)
+   redistribute it, in original or altered form, except as in section 3;
+   (d) remove or alter copyright, license or attribution notices; (e)
+   reverse engineer or decompile it, except to the extent applicable law
+   expressly permits despite this restriction.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+3. Sharing. You may share the unmodified, complete official package, free of
+   charge, with other individuals, provided this license and all notices are
+   included and no fee is charged.
+
+4. Ownership. TutMagic is licensed, not sold. The copyright holder keeps all
+   rights not expressly granted here.
+
+5. Third-party components. TutMagic includes third-party software and a
+   machine-learning model (see THIRD_PARTY_NOTICES.md and the
+   THIRD_PARTY_LICENSES folder). They remain under their own licenses, which
+   this license does not replace or restrict.
+
+6. Privacy. Camera images are processed locally on your computer and are not
+   transmitted by TutMagic (see PRIVACY_AR.md).
+
+7. No warranty. TutMagic is provided "AS IS", without warranty of any kind.
+   It sends simulated mouse and keyboard input; you use it at your own risk.
+   To the maximum extent permitted by law, the copyright holder is not liable
+   for any claim, damages or other liability arising from its use.
+
+8. Termination. This license ends automatically if you breach it. Then you
+   must stop using and delete all copies.
+
+Versions of TutMagic published before 0.6.0 were released under the MIT
+License; rights already granted for those versions are not withdrawn.
